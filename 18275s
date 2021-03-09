@@ -1,0 +1,447 @@
+----------------------------------------
+Shorts Report for "check_long_pins".
+Mon Mar 08 15:52:08 2021
+73-18275-04
+----------------------------------------
+Open #1 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_LSISCAN_EN        110172
+                 r501.2
+                 u15.V6
+Common Devices:
+                  r501
+                  u15
+Message is:  None.
+----------------------------------------
+Open #2 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_TRC_PVTREF        108157
+                 r515.2
+                 u15.U9
+Common Devices:
+                  r515
+                  u15
+Message is:  None.
+----------------------------------------
+Open #3 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_TRC_VREF          109168
+                c5500.2
+                r2479.2
+                r2480.2
+                 u15.T9
+Common Devices:
+                 c5500
+                 r2479
+                  u15
+Message is:  None.
+----------------------------------------
+Open #4 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP_C2J_ENA             10971
+                 r519.2
+                r2511.2
+                 u15.T4
+Common Devices:
+                  r519
+                  u15
+Message is:  None.
+----------------------------------------
+Open #5 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:     v                     10172
+UNNAMED_302_DOPPLERDL_I141_LSITN        
+                 r524.2
+                 u15.T6
+Common Devices:
+                  r524
+                  u15
+Message is:  None.
+----------------------------------------
+Open #6 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_clk    113164
+                u73.M67
+               u73_p.M67
+                 u104.4
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #7 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_cs_l   115163
+                r1887.1
+                u73.P67
+               u73_p.P67
+                 u104.5
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #8 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_mosi    11364
+                u73.C73
+               u73_p.C73
+                 u104.6
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #9 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   unnamed_262_cap_i66_a   11555
+                fmmc91.2
+                fmmr11.2
+                fmmr12.2
+Common Devices:
+                 fmmc91
+Message is:  None.
+----------------------------------------
+Open #10 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_3v_miso   114173
+                r1892.2
+                 u91.7
+Common Devices:
+                  u91
+Message is:  None.
+----------------------------------------
+Open #11 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   P3_3V_RTC               11075
+                c1336.1
+                 cr8.3
+              cr8%cr_1_3.C
+              cr8%cr_2_3.C
+                fmdc22.1
+                 r816.1
+                r2072.2
+                r2073.2
+                r2242.2
+                r2263.1
+Too many to print.
+Common Devices:
+                 c1336
+                 fmdc22
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Open #12 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   CPU_DCPRTC             119150
+                c1831.1
+                u73.AW16
+               u73_p.AW16
+Common Devices:
+                 c1831
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Open #13 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   ISO_MGMT_BOB_SMITH      11525
+                fmgc5.1
+                fmgr1.2
+                fmgr2.2
+                fmgr3.2
+                fmgr4.2
+Common Devices:
+                 fmgc5
+Message is:  None.
+----------------------------------------
+Open #14 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   CPU_REFCLK14IN_TERM     11735
+                 r867.2
+                 u73.W9
+                u73_p.W9
+Common Devices:
+                  r867
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Open #15 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:     v                     21961
+iso_jtag_conn_tdo_fpga_tdi              
+                 r930.2
+                 u57.B1
+No common devices.
+Message is:  None.
+----------------------------------------
+Open #16 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   fc_phy1_rst_srt_l       11968
+                 r962.1
+                 u29.D3
+Common Devices:
+                  u29
+Message is:  None.
+----------------------------------------
+Open #17 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   sec_jtag_tms_srt        10461
+                r1403.2
+                u29.U15
+Common Devices:
+                  u29
+Message is:  None.
+----------------------------------------
+Open #18 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   CPU_SATA_RCOMP         122123
+                r2125.2
+                u73.BB32
+               u73_p.BB32
+Common Devices:
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Open #19 Thresh 25, Delay 50us      Ohms
+From: GND                    217101   28
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   secb_led_status7        10538   28
+                r2307.1
+                 u123.7
+Common Devices:
+                  u123
+Message is:  None.
+----------------------------------------
+Open #20 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   RVC_A2                 110122
+                tp159.1
+No common devices.
+Message is:  None.
+------End, 20 Problems Reported---------

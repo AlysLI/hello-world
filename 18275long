@@ -1,0 +1,2185 @@
+----------------------------------------
+Shorts Report for "check_long_pins".
+Sat Mar 06 17:04:21 2021
+73-18275-04
+----------------------------------------
+Open #1 Thresh 25, Delay 50us       Ohms
+From: GND                    217101   57
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   SYSTEM_RT_DBG          103128   57
+                fmgu1.4
+                 r906.2
+Common Devices:
+                 fmgu1
+Message is:  None.
+----------------------------------------
+Open #2 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_LSISCAN_EN        110172
+                 r501.2
+                 u15.V6
+Common Devices:
+                  r501
+                  u15
+Message is:  None.
+----------------------------------------
+Open #3 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_TRC_PVTREF        108157
+                 r515.2
+                 u15.U9
+Common Devices:
+                  r515
+                  u15
+Message is:  None.
+----------------------------------------
+Open #4 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP0_TRC_VREF          109168
+                c5500.2
+                r2479.2
+                r2480.2
+                 u15.T9
+Common Devices:
+                 c5500
+                 r2479
+                  u15
+Message is:  None.
+----------------------------------------
+Open #5 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   DOP_C2J_ENA             10971
+                 r519.2
+                r2511.2
+                 u15.T4
+Common Devices:
+                  r519
+                  u15
+Message is:  None.
+----------------------------------------
+Open #6 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:     v                     10172
+UNNAMED_302_DOPPLERDL_I141_LSITN        
+                 r524.2
+                 u15.T6
+Common Devices:
+                  r524
+                  u15
+Message is:  None.
+----------------------------------------
+Open #7 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_clk    113164
+                u73.M67
+               u73_p.M67
+                 u104.4
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #8 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_cs_l   115163
+                r1887.1
+                u73.P67
+               u73_p.P67
+                 u104.5
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #9 Thresh 25, Delay 50us       Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_1v_mosi    11364
+                u73.C73
+               u73_p.C73
+                 u104.6
+Common Devices:
+                  u73
+                 u73_p
+                  u104
+Message is:  None.
+----------------------------------------
+Open #10 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   unnamed_262_cap_i66_a   11555
+                fmmc91.2
+                fmmr11.2
+                fmmr12.2
+Common Devices:
+                 fmmc91
+Message is:  None.
+----------------------------------------
+Open #11 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   cpu_10ge_spi_3v_miso   114173
+                r1892.2
+                 u91.7
+Common Devices:
+                  u91
+Message is:  None.
+----------------------------------------
+Open #12 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   P3_3V_RTC               11075
+                c1336.1
+                 cr8.3
+              cr8%cr_1_3.C
+              cr8%cr_2_3.C
+                fmdc22.1
+                 r816.1
+                r2072.2
+                r2073.2
+                r2242.2
+                r2263.1
+Too many to print.
+Common Devices:
+                 c1336
+                 fmdc22
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Open #13 Thresh 25, Delay 50us      Ohms
+From: GND                    217101 Open
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+To:   CPU_DCPRTC             119150
+                c1831.1
+                u73.AW16
+               u73_p.AW16
+Common Devices:
+                 c1831
+                  u73
+                 u73_p
+Message is:  None.
+----------------------------------------
+Short #1, Thresh 1000, Delay 50us   Ohms
+From: UNNAMED_249_RES_I58_A   11370    3
+                r1891.1
+                 u81.3
+                 u81.7
+To:   SPI_CFG_CS_L           113148    6
+                 r736.2
+                 u29.V3
+                 u224.1
+      gpio_doppler_mux_sel   110152    5
+                 r136.1
+                r2328.1
+                 u26.1
+      p5v_usb_out             11430    6
+                 c147.1
+                 c150.1
+                c1457.1
+                c1458.1
+                c1915.1
+                c1916.1
+                 j83.1
+                 r150.1
+                 u76.8
+      iso_ref_5v              22008    6
+                c1172.1
+                c1173.1
+                c1174.1
+                c1178.1
+                 r386.1
+                 r392.1
+                 r395.2
+                 r396.1
+                 r523.1
+                 r542.1
+Too many to print.
+      rsmrst_cpu_1v_l         11962    5
+                c3719.1
+                 p12.47
+                r1998.1
+                u73.R77
+               u73_p.R77
+                 u95.18
+      CPULAN_XTAL25_OUT       11558    6
+                c3760.1
+                u73.F58
+               u73_p.F58
+                  y8.3
+      ISO_MGMT_BOB_SMITH      11525   10
+                fmgc5.1
+                fmgr1.2
+                fmgr2.2
+                fmgr3.2
+                fmgr4.2
+      MGMT_PHY_XTAL2         104133    5
+                fmgc9.1
+                fmgr6.2
+                fmgy1.3
+                r1306.1
+      mgmt_phy_xtal2_r        10433    5
+                fmgu3.45
+                r1306.2
+        v                     10542    6 
+unnamed_274_i211_i22_rsvd36pu           
+                fmgr15.2
+                fmgu3.36
+        v                    105142    6 
+unnamed_274_i211_i22_rsvd35pu           
+                fmgr16.2
+                fmgu3.35
+        v                    105143    6 
+unnamed_274_i211_i22_rsvd34pu           
+                fmgr17.2
+                fmgu3.34
+      mgmt_trd1_n             10236    6
+                fmgt1.3
+              fmgt1%1_3.2
+                fmgu3.54
+      mgmt_trd0_n            102136    5
+                fmgt1.6
+              fmgt1%4_6.2
+                fmgu3.57
+      master_reset_l          10861    5
+                 r120.2
+                 r678.2
+                u29.M14
+      cpus_sbc_i2c_scl       110156    5
+                fmau1.24
+                 p18.3
+                 r143.2
+                r2343.2
+                 u13.5
+      ptp_phy5_sync_l        219111    7
+                 r376.2
+                u23.122
+      ptp_phy4_sync_l        219110    5
+                 r377.2
+                u22.122
+      ptp_phy3_sync_l         21909    4
+                 r378.2
+                u21.122
+      ptp_phy2_sync_l         21711  245
+                 r379.2
+                u20.122
+      ptp_phy0_sync_l         21916    4
+                 r381.2
+                u18.122
+        v                     10316    5 
+STACK_0_SECURE_PWR_EN_L                 
+                 r430.1
+                u15.N37
+      STK0_CBL_PRESENT_L      10238    6
+                 p2.A3Y
+                 r433.2
+                 r437.1
+                 u15.V3
+        v                     10117    5 
+STACK_1_SECURE_PWR_EN_L                 
+                 r435.1
+                u15.M37
+        v                    107143    5 
+jtag_dop0_tdo_strutt_tdi                
+                 r540.2
+                 r546.2
+                u29.C15
+                 u72.2
+      cpus_sbc_i2c_sda        11056    5
+                fmau1.26
+                 p18.1
+                 r698.2
+                 u13.4
+                u29.N16
+      CPU_REFCLK14IN_TERM     11735    8
+                 r867.2
+                 u73.W9
+                u73_p.W9
+      CLK_100M_CPU_XDP_P      12203    8
+                 p11.40
+                 r872.2
+        v                     21961    6 
+iso_jtag_conn_tdo_fpga_tdi              
+                 r930.2
+                 u57.B1
+      fc_phy1_rst_srt_l       11968    6
+                 r962.1
+                 u29.D3
+      DDR4_0_TEN0            117168    5
+                fmmu2.G9
+                r1245.2
+      DDR4_0_TEN1             11767    6
+                fmmu1.G9
+                r1247.2
+      DDR4_0_TEN2             11765    5
+                fmmu4.G9
+                r1267.2
+      DDR4_0_TEN3            117164    5
+                fmmu3.G9
+                r1272.2
+      DDR4_0_TEN4            117150    5
+                fmmu6.G9
+                r1280.2
+      DDR4_0_TEN5             11751    5
+                fmmu5.G9
+                r1281.2
+      DDR4_0_TEN6            116149    6
+                fmmu8.G9
+                r1285.2
+      DDR4_0_TEN7             11649    6
+                fmmu7.G9
+                r1289.2
+      DDR4_0_TEN8            117162    6
+                fmmu9.G9
+                r1294.2
+      eusb_xtal2_r            11312    6
+                fmku1.44
+                r1299.2
+      led_sb_rst_l            11341    6
+                r1358.2
+                r1608.2
+                u123.10
+      led_sb_latch            11441    6
+                r1359.2
+                u123.12
+      led_sb_en_l            113141    6
+                r1360.2
+                r1609.2
+                u123.13
+      led_sb_shift_clk       113142    6
+                r1361.2
+                u123.11
+      led_sb_shift_in         11342    6
+                r1362.2
+                u123.14
+      sec_jtag_tms_srt        10461    6
+                r1403.2
+                u29.U15
+        v                     11557    6 
+unnamed_248_avch8t245_i135_oe           
+                r1750.1
+                u104.22
+      cpu_10ge_spi_3v_mosi   114164    6
+                r1888.2
+                 u81.5
+      cpu_10ge_spi_3v_clk     11470    6
+                r1890.2
+                 u81.6
+        v                     11371    7 
+cpu_10ge_spi_3v_miso_srt                
+                r1892.1
+                 u81.2
+      CPU_RESET_1V_SRT_L     116135    6
+                r1913.1
+                u73.BU7
+               u73_p.BU7
+      CPU_RESET_1V_L          11763    5
+                r1913.2
+                r1914.2
+                r2004.2
+                r2052.2
+                u73.L76
+               u73_p.L76
+      JTAG_CPU_TDO_PCH_TDI    12232    5
+                 p11.52
+                 p12.56
+                r1935.1
+                r2009.1
+                r2128.2
+                u73.BM5
+               u73_p.BM5
+      clk_33m_lpc_fpga        11338    5
+                r1985.2
+                 u29.L5
+        v                    115162    6 
+unnamed_248_avch8t245_i136_oe           
+                r2026.1
+                 u97.9
+                 u97.22
+      DDR4_1V_I2C_SDA        114143    6
+                r2028.1
+                u73.CC60
+               u73_p.CC60
+      DDR4_1V_I2C_SCL        114136    6
+                r2029.1
+                u73.CD58
+               u73_p.CD58
+        v                     11566    6 
+unnamed_248_avch8t245_i101_oe           
+                r2036.1
+                 u95.9
+                 u95.10
+                 u95.22
+      cpu_thermtrip_1v_l     114167    6
+                r2043.1
+                u73.AF72
+                u73.BJ16
+               u73_p.AF72
+               u73_p.BJ16
+                 u97.7
+      cpu_caterr_1v_l         11662   93
+                r2045.1
+                u73.Y67
+               u73_p.Y67
+                 u97.6
+      cpu_dram_pwr_ok        117157    6
+                r2061.2
+                u73.BA9
+                u73.CV55
+               u73_p.BA9
+               u73_p.CV55
+                 u104.7
+      CPU_SATA_RCOMP         122123    5
+                r2125.2
+                u73.BB32
+               u73_p.BB32
+      CLK_100M_CPU_XDP_N     122103    6
+                 p11.42
+                r2131.2
+      PECI_CPU               114144    6
+                r2142.1
+                u73.AL78
+               u73_p.AL78
+      secb_led_status0        10745    5
+                r2283.1
+                u123.15
+      secb_led_status1       107144    5
+                r2295.1
+                 u123.1
+      secb_led_status2       105145   24
+                r2296.1
+                 u123.2
+      secb_led_status3        10545    5
+                r2297.1
+                 u123.3
+      secb_led_status4       105144    8
+                r2298.1
+                 u123.4
+      secb_led_status5        10544    6
+                r2305.1
+                 u123.5
+      secb_led_status6        10537    6
+                r2306.1
+                 u123.6
+      secb_led_status7        10538    7
+                r2307.1
+                 u123.7
+        v                     21404    4 
+iso_56n_fpga_sp_swcb_2_tx_n             
+                 u53.3
+                 u57.P9
+      mgmt_100_led            10429    5
+                fmgu3.33
+                 tp90.1
+      mgmt_1000_led           10335    6
+                fmgu3.30
+                 tp91.1
+      RVC_A2                 110122    5
+                tp159.1
+      iso_1_2v               219102    4
+                c1241.1
+                c2084.1
+                c2085.1
+                c2086.1
+                c2107.1
+                c2108.1
+                c2109.1
+                c2110.1
+                c2111.1
+                c2122.1
+Too many to print.
+      ISO_54N                 21138    5
+                 c13.2
+                 c20.2
+                 c61.2
+                 c74.2
+                 c89.2
+                 c90.2
+                 c104.2
+                 c139.2
+                 c165.1
+                 c166.1
+Too many to print.
+      SP_3_3V                 12212    6
+                 c20.1
+                 c61.1
+                 c74.1
+                 c649.1
+                c1242.1
+                c1244.1
+                c1960.1
+                c1977.1
+                c1999.1
+                c2006.1
+Too many to print.
+      P0_6V_DDR4_0_VTT       117148    5
+                 c105.1
+                 c107.1
+                 c109.1
+                 c111.1
+                 c112.1
+                 c113.1
+                 c115.1
+                 c117.1
+                 c120.1
+                 c127.2
+Too many to print.
+      P0_85V_SER_A_DOP       119148    5
+                  c7.1
+                 c39.1
+                 c42.1
+                 c44.1
+                 c47.1
+                 c51.1
+                 c52.1
+                 c87.1
+                 c88.1
+                 c591.1
+Too many to print.
+      p0_91v_vdd_dop0        117144    5
+                 c10.1
+                 c647.1
+                 c650.1
+                 c870.1
+                 c902.1
+                 c911.1
+                 c913.1
+                 c952.1
+                 c953.1
+                 c954.1
+Too many to print.
+      p1v                     11429    6
+                 1l82.1
+                 1l83.1
+                 1l86.1
+                 1l87.1
+                 c64.1
+                 c66.1
+                 c91.1
+                 c92.1
+                 c93.1
+                 c179.1
+Too many to print.
+      p1_05v                  12162    5
+                 c11.1
+                c1391.1
+                c1452.1
+                c1477.1
+                c1985.1
+                c1990.1
+                c3722.1
+                c3725.1
+                c3726.1
+                c3733.1
+Too many to print.
+      p1_1v_sref_dop          11743    5
+                 c589.1
+                 c593.1
+                 c667.1
+                 c668.1
+                 c669.1
+                 c695.1
+                 c696.1
+                 c697.1
+                 c698.1
+                 c699.1
+Too many to print.
+      p1_2v                   11328    6
+                 c130.1
+                 c177.1
+                 c427.1
+                 c429.1
+                c1223.1
+                c1239.1
+                c1724.1
+                c1726.1
+                c1730.1
+                c1732.1
+Too many to print.
+      p1_2vddq               117147    5
+                 c126.1
+                 c127.1
+                 c129.1
+                 c133.1
+                 c525.1
+                 c526.1
+                 c532.1
+                 c533.1
+                 c534.1
+                 c535.1
+Too many to print.
+      P1_3V                  119129    5
+                c1352.1
+                c1396.1
+                fmdc25.1
+                fmtc8.1
+                fmtc9.1
+                fmtc10.1
+                fmtc11.1
+                fmtr13.2
+                fmttp2.1
+                fmtu1.1
+Too many to print.
+      P1_5V                  119143    6
+                c1351.1
+                c1393.1
+                c1394.1
+                c5276.1
+                c5277.1
+                c5280.1
+                c5281.1
+                fmdc24.1
+                fmfc8.1
+                fmfc9.1
+Too many to print.
+      P1_7V                   11733    6
+                c1348.1
+                fmdc23.1
+                fmfc3.1
+                fmfc4.1
+                fmfc5.1
+                fmfu1.15
+                fmfu1.16
+                fmfu1.17
+                fmsc13.1
+                fmsc14.1
+Too many to print.
+      p1_8v                   11029    5
+                 c163.1
+                 c164.1
+                 c167.1
+                 c170.1
+                 c172.1
+                 c173.1
+                 c232.1
+                 c259.1
+                 c590.1
+                 c644.1
+Too many to print.
+      P1_8V_CORE              11747    6
+                 c12.1
+                c1382.1
+                c1385.1
+                c1387.1
+                c1388.1
+                c1389.1
+                fmcc21.1
+                fmcc22.1
+                fmcc23.1
+                fmcc24.1
+Too many to print.
+      p2_5v                  113128    6
+                 c171.1
+                 c181.1
+                 c217.1
+                 c218.1
+                 c425.1
+                 c430.1
+                c1278.1
+                c1279.1
+                c1287.1
+                c1288.1
+Too many to print.
+      p5v                     11433    5
+                c1343.1
+                c1344.1
+                c1345.1
+                c1346.1
+                c1347.1
+                fmar16.2
+                fmar17.2
+                fmar18.2
+                fmcr14.1
+                imbc12.1
+Too many to print.
+      V3P3_SLEW              116146    5
+                c3814.2
+                fmkc9.1
+                fmkc10.1
+                fmkc11.1
+                fmkc12.1
+                fmkc13.1
+                fmkc14.1
+                fmkl1.1
+                fmkr1.1
+                fmkr2.1
+Too many to print.
+      v_ibc_8.1v              11330    5
+                 c37.1
+                 c41.1
+                 c43.1
+                 c45.1
+                 c94.1
+                 c95.1
+                 c96.1
+                 c168.1
+                 c169.1
+                 c197.1
+Too many to print.
+      iso_54n_ret             21642    4
+                 c89.1
+                 c234.1
+                 c238.1
+                 c251.1
+                 c279.1
+                 c280.1
+                c1172.2
+                c1173.2
+                c1174.2
+                c1176.2
+Too many to print.
+      iso_12v_bias_vout       21501   11
+                 c90.1
+                 c104.1
+                 c235.1
+                 c246.1
+                 c624.1
+                 c625.1
+                 c626.1
+                c1951.1
+                c1986.1
+                c1987.1
+Too many to print.
+      ISO_54N_4P096          216128    5
+                 c188.1
+                c2022.1
+                c2023.1
+                 r924.1
+                 r925.1
+                 r927.1
+                 r942.1
+                 r958.2
+                 r988.1
+                 r994.1
+Too many to print.
+      iso_ibc_54n_ret        215101    5
+                 c165.2
+                 c166.2
+                 c462.2
+                 c463.2
+                 cr7.C
+                 q17.1
+                 q17.2
+                 q17.3
+               q17%pwr.S
+                q17%qf.S
+Too many to print.
+      p5v_usb                114133    6
+                 c138.1
+                 c142.1
+                  l3.2
+                 r18.2
+                 tp2.1
+                 u76.9
+      P3_3V                  214107    5
+                 1l85.1
+                  c9.1
+                 c116.1
+                 c132.1
+                 c136.1
+                 c140.1
+                 c145.1
+                 c146.1
+                 c148.1
+                 c154.1
+Too many to print.
+      cpu_mux_spi_clk        113135    6
+                r2224.2
+                 u87.10
+      cpu_spi_miso            10836    6
+                u29.N10
+                u73.BJ20
+               u73_p.BJ20
+                 u87.13
+      cpu_spi_mosi            11335    6
+                r1368.1
+                 u87.3
+      dedi_clk_in            109126    5
+                r2014.2
+                 u87.11
+      dedi_spi_cs0_l         109127    5
+                r1381.1
+                 u87.5
+      dedi_spi_miso          108132    5
+                 p15.5
+                 u87.14
+      dedi_spi_mosi          108127    6
+                r2015.2
+                 u87.2
+      mux_spi_cs0_l           10837    6
+                r1928.1
+                 u29.U7
+                 u87.6
+      spi_mux_cpu_sel        107136    6
+                r1389.2
+                r1391.1
+                 u87.1
+        v                     10731    6 
+unnamed_247_pi3b3257pg_i11_e            
+                r2013.1
+                 u87.15
+        v                    107135    6 
+unnamed_247_pi3b3257pg_i18_e            
+                r1352.1
+                 u86.15
+      buf_spi_cs0_l           10933    5
+                 u86.7
+                 u87.7
+      buf_spi_miso           108135    6
+                 u86.12
+                 u87.12
+      buf_spi_mosi            10835    5
+                 u86.4
+                 u87.4
+      sbc_1p05v_enable        11774    6
+                imbu1.17
+                r2372.1
+                 u29.F4
+      cpus_sbc2_i2c_scl      110163    5
+                fmcu1.20
+                imbu1.20
+                r1197.2
+                r2351.2
+                r2687.2
+                 u82.5
+                 u84.5
+      cpus_sbc2_i2c_sda       11061    5
+                fmcu1.19
+                imbu1.19
+                r1196.2
+                r2686.2
+                u29.C18
+                 u82.4
+                 u84.4
+      pu_pmod_vdd1_a_b_fault  11070    5
+                fmcr4.1
+                fmcu1.16
+        v                    110168    5 
+unnamed_42_ir3570a_i1_enable            
+                fmcr6.2
+                fmcu1.10
+                fmcu1.17
+      PPS_ACC_N              104131    6
+                fmgc29.2
+                fmgcr1.4
+            fmgcr1%cr_2_4.C
+            fmgcr1%cr_4_5.A
+                fmgu1.7
+      PPS_ACC_P              104130    6
+                fmgc7.2
+                fmgcr1.6
+            fmgcr1%cr_2_6.C
+            fmgcr1%cr_6_5.A
+                fmgu1.6
+      SYSTEM_RT_DBG          103128   61
+                fmgu1.4
+                 r906.2
+      SYSTEM_RT_DBG_ENABLE    10328    5
+                fmgu1.3
+                 r905.2
+        v                    103129    5 
+UNNAMED_272_MAX307XE8P_I47_RE           
+                fmgr5.1
+                fmgu1.2
+      CONN_MANU_JTAG_TCK     105131    5
+                 p19.1
+                r1072.2
+      CONN_MANU_JTAG_TMS      10533    6
+                 p19.5
+                r1074.2
+      CONN_MANU_JTAG_TRST_L  107133    5
+                 p19.9
+                r1085.2
+      JTAG_BUF_EN_L           10843    6
+                 p19.10
+                 r804.1
+                r1102.2
+                 u63.1
+      jtag_pch_tdo_phy5_tdi   11671    5
+                 p12.52
+                r2006.1
+                r2127.2
+                 u97.3
+                 u97.8
+      lan_disable_l          102133    5
+                fmgu3.28
+                r1303.2
+      mgmt_act_led           105128    6
+                fmgu3.31
+                r1314.1
+      mgmt_wake_pu_l          10241    6
+                fmgu3.16
+                r1300.1
+      phy0_rst_l             108155    5
+                r1539.1
+                r1853.2
+                 u18.57
+      phy1_rst_l             122148    5
+                 r215.1
+                r1852.2
+                 u19.57
+      phy2_rst_l             108162    5
+                 r218.1
+                r1851.2
+                 u20.57
+      phy3_rst_l             108163    5
+                 r221.1
+                r1850.2
+                 u21.57
+      phy4_rst_l              12247    6
+                 r223.1
+                r1849.2
+                 u22.57
+      phy5_rst_l             108152    5
+                 r233.1
+                r1848.2
+                 u23.57
+        v                    103141    6 
+unnamed_274_i211_i22_rsvd2pd            
+                fmgr12.1
+                fmgu3.2
+        v                     10341    6 
+unnamed_274_i211_i22_rsvd3pd            
+                fmgr13.1
+                fmgu3.3
+        v                    103135    6 
+unnamed_274_i211_i22_rsvd5pu            
+                fmgr26.2
+                fmgu3.5
+        v                    103136    6 
+unnamed_274_i211_i22_rsvd6pu            
+                fmgr25.2
+                fmgu3.6
+        v                     10336    6 
+unnamed_274_i211_i22_rsvd7pu            
+                fmgr24.2
+                fmgu3.7
+        v                    104142    6 
+unnamed_274_i211_i22_rsvd8pu            
+                fmgr23.2
+                fmgu3.8
+        v                     10442    5 
+unnamed_274_i211_i22_rsvd9pu            
+                fmgr22.2
+                fmgu3.9
+        v                    104141    6 
+unnamed_274_i211_i22_rsvd12pu           
+                fmgr14.1
+                fmgr21.2
+                fmgu3.12
+        v                     10541    5 
+unnamed_274_i211_i22_rsvd13pu           
+                fmgr20.2
+                fmgu3.13
+        v                    103142    5 
+unnamed_274_i211_i22_rsvd14pu           
+                fmgr19.2
+                fmgu3.14
+        v                     10342    8 
+unnamed_274_i211_i22_rsvd15pu           
+                fmgr18.2
+                fmgu3.15
+      CONN_MANU_JTAG_TDO     105133    5
+                 p19.7
+                r1084.2
+      emmc_spi_clk            11456    6
+                fmkr20.2
+                fmkr31.1
+                fmku3.6
+      EMMC_SPI_CS_L          114150    5
+                fmkr30.2
+                fmku1.8
+                fmku3.1
+      emmc_spi_hold_l         11652    5
+                fmkr25.2
+                fmku3.7
+      emmc_spi_mosi           11455    6
+                fmkr15.2
+                fmku1.10
+                fmku3.5
+      EMMC_SPI_WP_L          115148    6
+                fmkr26.2
+                fmku3.3
+      srt_emmc_spi_miso      114153    6
+                fmkr27.1
+                fmku3.2
+      pu_pmod_vrhot_fault_b   11575    5
+                imbu1.16
+                r1228.2
+      console_rts             10329    6
+                 r916.2
+                 u8.10
+      console_txd            113168    6
+                 j9.21
+                 r949.2
+                 u8.11
+        v                    103143    5 
+unnamed_282_max3232_i108_r1in           
+                 r447.2
+                 u8.13
+        v                     10330    6 
+unnamed_282_max3232_i108_r2in           
+                 r441.2
+                  u8.8
+      srt_cns_cn0_rs_rxd      10332    6
+                 r467.1
+                 u8.12
+      srt_console_cts        103130    6
+                 r468.1
+                  u8.9
+        v                     10343    5 
+unnamed_282_max3232_i108_t1out          
+                 r446.1
+                 u8.14
+        v                     10331    5 
+unnamed_282_max3232_i108_t2out          
+                 r440.1
+                  u8.7
+      phy0_mdc                10976    5
+                r2449.1
+                 u18.56
+      phy0_mdio_srt           21932    5
+                r1419.1
+                 u18.54
+      phy0_p0_led             22135    5
+                 cr44.1
+                 cr44.3
+             cr44%pin1_2.A
+             cr44%pin3_4.A
+                 cr53.1
+                 cr53.3
+             cr53%pin1_2.A
+             cr53%pin3_4.A
+                u18.103
+      phy0_p1_led            221134    5
+                 cr54.1
+                 cr54.3
+             cr54%pin1_2.A
+             cr54%pin3_4.A
+                 cr55.1
+                 cr55.3
+             cr55%pin1_2.A
+             cr55%pin3_4.A
+                u18.105
+      phy0_p2_led             22134    4
+                 cr56.1
+                 cr56.3
+             cr56%pin1_2.A
+             cr56%pin3_4.A
+                 cr57.1
+                 cr57.3
+             cr57%pin1_2.A
+             cr57%pin3_4.A
+                u18.117
+      phy0_p3_led            221133    4
+                 cr58.1
+                 cr58.3
+             cr58%pin1_2.A
+             cr58%pin3_4.A
+                 cr59.1
+                 cr59.3
+             cr59%pin1_2.A
+             cr59%pin3_4.A
+                u18.119
+      phy0_p4_led            220137    5
+                 r266.1
+                 r276.1
+                 r289.1
+                 r826.1
+                u18.120
+      phy0_p5_led             22037    5
+                 r288.1
+                 r307.1
+                 r808.1
+                 r823.1
+                u18.121
+      phy0_p6_led            220138    5
+                 r273.1
+                 r291.1
+                 r813.1
+                 r828.1
+                u18.126
+      phy0_p7_led             22038    5
+                 r275.1
+                 r295.1
+                 r814.1
+                 r829.1
+                u18.127
+        v                     21734    5 
+unnamed_349_bcm54182_i477_phya0         
+                 r210.2
+                 u18.60
+        v                     21933    5 
+unnamed_349_bcm54182_i477_phya1         
+                 r333.2
+                 u18.62
+        v                    219135    5 
+unnamed_349_bcm54182_i477_phya2         
+                 r198.2
+                 u18.63
+        v                    219134    5 
+unnamed_349_bcm54182_i477_refclksel     
+                 r211.2
+                 u18.64
+      phy0_int_l             108136    5
+                 r616.2
+                u15.Y40
+                 u18.59
+      phy1_mdc                10857    5
+                r2448.1
+                 u19.56
+      phy1_mdio_srt           21918    4
+                r1420.1
+                 u19.54
+      phy1_p0_led            220124    5
+                 cr62.1
+                 cr62.3
+             cr62%pin1_2.A
+             cr62%pin3_4.A
+                 cr63.1
+                 cr63.3
+             cr63%pin1_2.A
+             cr63%pin3_4.A
+                u19.103
+      phy1_p1_led             22024    6
+                 cr64.1
+                 cr64.3
+             cr64%pin1_2.A
+             cr64%pin3_4.A
+                cr278.1
+                cr278.3
+             cr278%pin1_2.A
+             cr278%pin3_4.A
+                u19.105
+      phy1_p2_led            220117    4
+                 cr51.1
+                 cr51.3
+             cr51%pin1_2.A
+             cr51%pin3_4.A
+                 cr60.1
+                 cr60.3
+             cr60%pin1_2.A
+             cr60%pin3_4.A
+                u19.117
+      phy1_p3_led             22117    5
+                 cr52.1
+                 cr52.3
+             cr52%pin1_2.A
+             cr52%pin3_4.A
+                 cr61.1
+                 cr61.3
+             cr61%pin1_2.A
+             cr61%pin3_4.A
+                u19.119
+      phy1_p4_led             22017    5
+                 r310.1
+                 r321.1
+                 r834.1
+                 r838.1
+                u19.120
+      phy1_p5_led            220118    4
+                 r314.1
+                 r316.1
+                 r323.1
+                 r835.1
+                u19.121
+      phy1_p6_led            220123    5
+                 r324.1
+                 r832.1
+                 r836.1
+                 r840.1
+                u19.126
+      phy1_p7_led             22023    4
+                 r318.1
+                 r833.1
+                 r837.1
+                 r845.1
+                u19.127
+      ptp_phy1_sync_l        219107    4
+                 r380.2
+                u19.122
+        v                     21917    4 
+unnamed_351_bcm54182_i119_phya0         
+                 r346.2
+                 u19.60
+        v                    219123    4 
+unnamed_351_bcm54182_i119_phya1         
+                 r345.2
+                 u19.62
+        v                     21923    6 
+unnamed_351_bcm54182_i119_phya2         
+                 r341.2
+                 u19.63
+        v                    219118    5 
+unnamed_351_bcm54182_i119_refclksel     
+                 r347.2
+                 u19.64
+      phy1_int_l             103137    5
+                 r615.2
+                u15.AA39
+                 u19.59
+      phy2_mdc               108171    5
+                r2459.1
+                 u20.56
+      phy2_mdio_srt           21907    6
+                r1421.1
+                 u20.54
+      phy2_p0_led            221113    5
+                 cr50.1
+                 cr50.3
+             cr50%pin1_2.A
+             cr50%pin3_4.A
+                 cr83.1
+                 cr83.3
+             cr83%pin1_2.A
+             cr83%pin3_4.A
+                u20.103
+      phy2_p1_led             22111    5
+                 cr84.1
+                 cr84.3
+             cr84%pin1_2.A
+             cr84%pin3_4.A
+                 cr85.1
+                 cr85.3
+             cr85%pin1_2.A
+             cr85%pin3_4.A
+                u20.105
+      phy2_p2_led             22104    5
+                 cr86.1
+                 cr86.3
+             cr86%pin1_2.A
+             cr86%pin3_4.A
+                 cr87.1
+                 cr87.3
+             cr87%pin1_2.A
+             cr87%pin3_4.A
+                u20.117
+      phy2_p3_led            221102    5
+                 cr88.1
+                 cr88.3
+             cr88%pin1_2.A
+             cr88%pin3_4.A
+                 cr89.1
+                 cr89.3
+             cr89%pin1_2.A
+             cr89%pin3_4.A
+                u20.119
+      phy2_p4_led            220104    5
+                 r343.1
+                 r344.1
+                 r866.1
+                r1742.1
+                u20.120
+      phy2_p5_led             22002    5
+                 r325.1
+                r1741.1
+                r1756.1
+                r1762.1
+                u20.121
+      phy2_p6_led            220103    4
+                 r332.1
+                 r871.1
+                 r873.1
+                 r874.1
+                u20.126
+      phy2_p7_led             22003    6
+                 r339.1
+                 r349.1
+                r1757.1
+                r1761.1
+                u20.127
+        v                    217110    5 
+unnamed_353_bcm54182_i119_phya0         
+                 r354.2
+                 u20.60
+        v                    219109    5 
+unnamed_353_bcm54182_i119_phya1         
+                 r353.2
+                 u20.62
+        v                    219108    5 
+unnamed_353_bcm54182_i119_phya2         
+                 r352.2
+                 u20.63
+        v                     21908    5 
+unnamed_353_bcm54182_i119_refclksel     
+                 r355.2
+                 u20.64
+      phy2_int_l              10337    5
+                 r614.2
+                 u15.V5
+                 u20.59
+      phy3_mdc                10972    5
+                r2458.1
+                 u21.56
+      phy3_mdio_srt           11976    5
+                r1422.1
+                 u21.54
+      phy3_p0_led             22102    6
+                 cr92.1
+                 cr92.3
+             cr92%pin1_2.A
+             cr92%pin3_4.A
+                 cr93.1
+                 cr93.3
+             cr93%pin1_2.A
+             cr93%pin3_4.A
+                u21.103
+      phy3_p1_led             22001    5
+                 cr94.1
+                 cr94.3
+             cr94%pin1_2.A
+             cr94%pin3_4.A
+                 cr95.1
+                 cr95.3
+             cr95%pin1_2.A
+             cr95%pin3_4.A
+                u21.105
+      phy3_p2_led             12177    5
+                 cr81.1
+                 cr81.3
+             cr81%pin1_2.A
+             cr81%pin3_4.A
+                 cr90.1
+                 cr90.3
+             cr90%pin1_2.A
+             cr90%pin3_4.A
+                u21.117
+      phy3_p3_led            119177    5
+                 cr82.1
+                 cr82.3
+             cr82%pin1_2.A
+             cr82%pin3_4.A
+                 cr91.1
+                 cr91.3
+             cr91%pin1_2.A
+             cr91%pin3_4.A
+                u21.119
+      phy3_p4_led            120177    6
+                 r350.1
+                 r359.1
+                r1737.1
+                r1752.1
+                u21.120
+      phy3_p5_led             12077    5
+                 r356.1
+                 r360.1
+                 r363.1
+                r1753.1
+                u21.121
+      phy3_p6_led             12078    5
+                 r357.1
+                 r882.1
+                r1736.1
+                r1751.1
+                u21.126
+      phy3_p7_led            120178    5
+                 r358.1
+                 r362.1
+                r1735.1
+                r1748.1
+                u21.127
+        v                    117178    5 
+unnamed_355_bcm54182_i119_phya0         
+                 r406.2
+                 u21.60
+        v                     11778    5 
+unnamed_355_bcm54182_i119_phya1         
+                 r404.2
+                 u21.62
+        v                     21902    5 
+unnamed_355_bcm54182_i119_phya2         
+                 r403.2
+                 u21.63
+        v                    219101    4 
+unnamed_355_bcm54182_i119_refclksel     
+                 r411.2
+                 u21.64
+      phy3_int_l             108137    5
+                 r613.2
+                 u15.Y4
+                 u21.59
+      phy4_mdc               108156    5
+                r2457.1
+                 u22.56
+      phy4_mdio_srt           11773    5
+                r1423.1
+                 u22.54
+      phy4_p0_led            119175    6
+                 cr49.1
+                 cr49.3
+             cr49%pin1_2.A
+             cr49%pin3_4.A
+                 cr68.1
+                 cr68.3
+             cr68%pin1_2.A
+             cr68%pin3_4.A
+                u22.103
+      phy4_p1_led             11971    6
+                 cr69.1
+                 cr69.3
+             cr69%pin1_2.A
+             cr69%pin3_4.A
+                 cr70.1
+                 cr70.3
+             cr70%pin1_2.A
+             cr70%pin3_4.A
+                u22.105
+      phy4_p2_led            119172    6
+                 cr71.1
+                 cr71.3
+             cr71%pin1_2.A
+             cr71%pin3_4.A
+                 cr72.1
+                 cr72.3
+             cr72%pin1_2.A
+             cr72%pin3_4.A
+                u22.117
+      phy4_p3_led             11972    5
+                 cr73.1
+                 cr73.3
+             cr73%pin1_2.A
+             cr73%pin3_4.A
+                 cr74.1
+                 cr74.3
+             cr74%pin1_2.A
+             cr74%pin3_4.A
+                u22.119
+      phy4_p4_led            120165    6
+                 r367.1
+                 r846.1
+                 r850.1
+                r1709.1
+                u22.120
+      phy4_p5_led             12065    6
+                 r364.1
+                 r851.1
+                r1708.1
+                r1730.1
+                u22.121
+      phy4_p6_led            120166    6
+                 r368.1
+                 r848.1
+                 r852.1
+                 r855.1
+                u22.126
+      phy4_p7_led             12066    5
+                 r369.1
+                 r849.1
+                r1724.1
+                r1729.1
+                u22.127
+        v                    121174    5 
+unnamed_357_bcm54182_i119_phya0         
+                 r227.2
+                 u22.60
+        v                     12174    5 
+unnamed_357_bcm54182_i119_phya1         
+                 r225.2
+                 u22.62
+        v                     11772    5 
+unnamed_357_bcm54182_i119_phya2         
+                 r224.2
+                 u22.63
+        v                    117173    5 
+unnamed_357_bcm54182_i119_refclksel     
+                 r229.2
+                 u22.64
+      phy4_int_l             117174    6
+                 r612.2
+                 u15.W5
+                 u22.59
+      phy5_mdc                10856    5
+                r2456.1
+                 u23.56
+      phy5_mdio_srt           11957    5
+                r1424.1
+                 u23.54
+      phy5_p0_led            120162    5
+                 cr77.1
+                 cr77.3
+             cr77%pin1_2.A
+             cr77%pin3_4.A
+                 cr78.1
+                 cr78.3
+             cr78%pin1_2.A
+             cr78%pin3_4.A
+                u23.103
+      phy5_p1_led             12062    5
+                 cr79.1
+                 cr79.3
+             cr79%pin1_2.A
+             cr79%pin3_4.A
+                 cr80.1
+                 cr80.3
+             cr80%pin1_2.A
+             cr80%pin3_4.A
+                u23.105
+      phy5_p2_led            120161    6
+                 cr66.1
+                 cr66.3
+             cr66%pin1_2.A
+             cr66%pin3_4.A
+                 cr75.1
+                 cr75.3
+             cr75%pin1_2.A
+             cr75%pin3_4.A
+                u23.117
+      phy5_p3_led             12061    5
+                 cr67.1
+                 cr67.3
+             cr67%pin1_2.A
+             cr67%pin3_4.A
+                 cr76.1
+                 cr76.3
+             cr76%pin1_2.A
+             cr76%pin3_4.A
+                u23.119
+      phy5_p4_led            120152    5
+                 r370.1
+                 r860.1
+                 r861.1
+                r1704.1
+                u23.120
+      phy5_p5_led             12054    6
+                 r375.1
+                 r862.1
+                r1705.1
+                r1719.1
+                u23.121
+      phy5_p6_led            120153    5
+                 r371.1
+                 r373.1
+                 r865.1
+                r1720.1
+                u23.126
+      phy5_p7_led             12053    6
+                 r372.1
+                 r374.1
+                r1702.1
+                r1716.1
+                u23.127
+        v                     11754    6 
+unnamed_359_bcm54182_i119_phya0         
+                 r255.2
+                 u23.60
+        v                    117161    5 
+unnamed_359_bcm54182_i119_phya1         
+                 r254.2
+                 u23.62
+        v                     11956    6 
+unnamed_359_bcm54182_i119_phya2         
+                 r250.2
+                 u23.63
+        v                    119157    6 
+unnamed_359_bcm54182_i119_refclksel     
+                 r256.2
+                 u23.64
+      phy5_int_l              10838    5
+                 r611.2
+                 u15.W6
+                 u23.59
+      CONN_MANU_JTAG_TDI      10532    5
+                 p19.3
+                r1073.2
+      MASTER_RESET_SRT_L     109125    6
+                 r678.1
+                 u27.2
+      cpu_pwrgood            115165    6
+                r1286.2
+                r1915.1
+                r2871.2
+                u73.CR39
+                u73.V76
+               u73_p.CR39
+               u73_p.V76
+                 u95.17
+      lan_pwrgood_1v          11565    5
+                r1903.1
+                r1904.1
+                r1912.2
+                u73.AE77
+               u73_p.AE77
+                 u95.19
+      strutt_prog_b          110161    5
+                c1335.1
+                 r935.2
+                r1038.1
+                 u29.V2
+      CPU_USBPWR_EN_L        117169    5
+                 r148.2
+                 u32.2
+                u73.BA5
+               u73_p.BA5
+      cpu_usbpwr_en          110132    5
+                 r149.1
+                 u32.4
+                 u76.5
+      fc_rt_sync_srt_l        11548    6
+                 r627.1
+                 u36.7
+      phys_rt_sync_srt_l     115149    6
+                 r626.1
+                 u36.6
+      ptp_dop_out_sync_l      11549    6
+                 r382.1
+                 u36.2
+                 u36.3
+      fc_rt_sync_l            11545    5
+                 r627.2
+                 u43.1
+                 u43.3
+        v                    115150    7 
+unnamed_244_avc2t45_i634_dir            
+                 r580.2
+                 u36.5
+      sync_fc_srt             11446    5
+                 r630.1
+                 u43.6
+      console_1v_rxd          11469    6
+                u73.AG77
+               u73_p.AG77
+                 u95.21
+        v                    120149    5 
+CPU_10GE_SPI_1V_MISO_ST                 
+                r1894.1
+                u73.D74
+               u73_p.D74
+      CPU_BIST_ENABLE         11647    6
+                r1940.1
+                r2099.2
+                u73.AM69
+               u73_p.AM69
+      CPU_BMCINIT             11434    6
+                r1941.1
+                u73.AD69
+               u73_p.AD69
+      CPU_DDR4_STRAP          11636    6
+                r2108.1
+                u73.AK69
+               u73_p.AK69
+      CPU_PCHHOT_L           117166    5
+                r1378.1
+                r2041.1
+                u73.AL76
+                u73.BF7
+               u73_p.AL76
+               u73_p.BF7
+      CPU_PECI_ID0           116162    5
+                r1409.1
+                r2111.2
+                u73.L72
+               u73_p.L72
+      CPU_PMSYNC_PCH_CPU      11556    5
+                u73.BT9
+                u73.H77
+               u73_p.BT9
+               u73_p.H77
+      cpu_prochot_1v_l       113165    6
+                r2044.1
+                u73.AG71
+               u73_p.AG71
+                 u97.5
+      CPU_SAFE_MODE_BOOT     119135    5
+                r1405.1
+                u73.AF69
+               u73_p.AF69
+      cpu_serirq_data_st      11654    6
+                r2153.2
+                r2158.2
+                u73.AE75
+               u73_p.AE75
+      CPU_SLP_CPU_L           11378    6
+                r2038.2
+                r2039.1
+                u73.AC71
+               u73_p.AC71
+      CPU_STRAP_LAN_SEL0     116161    6
+                r1411.1
+                r1455.2
+                u73.E75
+               u73_p.E75
+      CPU_STRAP_LAN_SEL1      11661    5
+                r1410.1
+                r1945.2
+                u73.N72
+               u73_p.N72
+      CPU_TXT_AGENT          113170    6
+                r1942.1
+                r2107.2
+                u73.AM72
+               u73_p.AM72
+      CPU_TXT_PLTEN          120154    5
+                r2106.2
+                u73.AP72
+               u73_p.AP72
+      CPU_XDP_PRSNT_L        120170    6
+                 p11.60
+                r1273.2
+                r2005.1
+                u73.M77
+               u73_p.M77
+      dbguart_1v_rxd         114165    6
+                u73.AH78
+               u73_p.AH78
+                 u95.20
+      PD_LAN_NCSI_CLK_IN      11535    6
+                r2208.2
+                u73.AA72
+               u73_p.AA72
+      PD_LAN_NCSI_TX_EN      119136    6
+                r2230.1
+                u73.AA75
+               u73_p.AA75
+      PD_LAN_NCSI_TXD0        11936    5
+                r2227.1
+                u73.W77
+               u73_p.W77
+      PD_LAN_NCSI_TXD1       117136    5
+                r2226.1
+                u73.Y78
+               u73_p.Y78
+      PU_CPU_MEM_HOT          11444    8
+                r1918.1
+                u73.CC56
+               u73_p.CC56
+      PU_LAN_I2C_SCL0        113145    6
+                r2205.1
+                u73.R72
+               u73_p.R72
+      PU_LAN_I2C_SCL1         11345    8
+                r2217.1
+                u73.P71
+               u73_p.P71
+      PU_LAN_I2C_SDA0        115145    5
+                r2218.1
+                u73.U72
+               u73_p.U72
+      PU_LAN_I2C_SDA1         11748    5
+                r2219.1
+                u73.T71
+               u73_p.T71
+      PU_LAN_SMBALERT         11478    6
+                r2233.1
+                u73.AN71
+               u73_p.AN71
+      PU_LAN_SMBCLK          117152    5
+                r1042.1
+                u73.AM75
+               u73_p.AM75
+      PU_LAN_SMBDATA          11753    5
+                r2204.1
+                u73.AM77
+               u73_p.AM77
+      PU_PE_HP_SCL           117165    5
+                r2143.2
+                u73.AR67
+               u73_p.AR67
+      PU_PE_HP_SDA           116152    5
+                r2144.2
+                u73.AN67
+               u73_p.AN67
+        v                     11764    5 
+XDP_CPU_OBSDATA_A_MBP2_L                
+                 p11.9
+                r1999.1
+                u73.N78
+               u73_p.N78
+        v                    120167    5 
+XDP_CPU_OBSDATA_A_MBP3_L                
+                 p11.11
+                r1997.1
+                u73.M75
+               u73_p.M75
+        v                    119167    5 
+XDP_CPU_OBSDATA_A_MBP4_L                
+                 p11.15
+                u73.J78
+               u73_p.J78
+        v                     11965    5 
+XDP_CPU_OBSDATA_A_MBP5_L                
+                 p11.17
+                u73.H75
+               u73_p.H75
+      XDP_CPU_OBSFN_B_MBP6_L  12067    6
+                 p11.21
+                r1994.1
+                u73.K75
+               u73_p.K75
+      XDP_CPU_OBSFN_B_MBP7_L  12064    5
+                 p11.23
+                r1992.1
+                u73.J76
+               u73_p.J76
+      XDP_CPU_PREQ_L         119168    6
+                 p11.3
+                 r853.1
+                u73.K77
+               u73_p.K77
+      XDP_CPU_PWR_DEBUG_L     11958    5
+                c3721.1
+                 p11.45
+                r2000.2
+                u73.U77
+               u73_p.U77
+      CONSOLE_1V_TXD_ST      116153    6
+                r2160.1
+                r2164.1
+                r2869.2
+                u73.AG75
+               u73_p.AG75
+      CPU_ERROR0_1V           11477    6
+                r2051.1
+                u73.AC77
+               u73_p.AC77
+      CPU_ERROR1_1V           11577    6
+                r2049.1
+                u73.AC75
+               u73_p.AC75
+      CPU_ERROR2_1V          115174    6
+                r2047.1
+                u73.AB76
+               u73_p.AB76
+      CPU_PECI_ID1            11771    5
+                r1452.2
+                r1944.1
+                u73.AD78
+               u73_p.AD78
+      CPU_PECI_ID2            11544    5
+                r1451.2
+                r1943.1
+                u73.AL74
+               u73_p.AL74
+      CPU_STRAP_NCSI_ARB_OUT 117155    6
+                r1413.2
+                r2112.2
+                u73.AB78
+               u73_p.AB78
+      CPU_STRAP_NCSI_RXD0     11574    5
+                r1458.2
+                u73.Y71
+               u73_p.Y71
+      CPU_STRAP_NCSI_RXD1    115146    6
+                r1412.2
+                r1456.1
+                u73.W72
+               u73_p.W72
+      CPU_WAKELAN_PU         117172    5
+                r2232.1
+                u73.AD76
+               u73_p.AD76
+      DBGUART_1V_TXD_ST       11655    6
+                r2161.1
+                r2163.1
+                r2870.2
+                u73.AH76
+               u73_p.AH76
+      DDR4_TEST0              11970    6
+                r2166.1
+                u73.CU76
+               u73_p.CU76
+      DDR4_TEST1              11950    6
+                r2165.1
+                u73.CM78
+               u73_p.CM78
+      XDP_CPU_PRDY_L         120172    5
+                 p11.5
+                r1926.1
+                u73.L78
+               u73_p.L78
+      spi_0_clk               10832    5
+                r2019.2
+                 u79.6
+                 u86.11
+      SPI_0_CS_L              10734    6
+                r2016.2
+                 u79.1
+                 u86.5
+      spi_0_miso              10926    6
+                r1394.2
+                 u86.14
+      spi_0_mosi             108130    6
+                 u79.5
+                 u86.2
+      spi_1_clk              108133    5
+                r2020.2
+                 u80.6
+                 u86.10
+      SPI_1_CS_L             109131    5
+                r2017.2
+                 u80.1
+                 u86.6
+      spi_1_miso              10927    7
+                r1395.2
+                 u86.13
+      spi_1_mosi              10833    5
+                 u80.5
+                 u86.3
+      spi_mux_prom_sel       107130    5
+                r2018.1
+                 u29.V8
+                 u86.1
+      buf_clk_in              10932    6
+                 u86.9
+                 u87.9
+      cpu_serirq_data_3v      11471    6
+                 p22.8
+                r1357.1
+                u73.BU14
+               u73_p.BU14
+                 u90.7
+      cpu_serirq_dir         115156    6
+                r1459.2
+                u73.AD74
+               u73_p.AD74
+                 u90.5
+        v                    114170    5 
+unnamed_248_avc2t45_i16_a2              
+                r2024.1
+                 u90.3
+        v                    114171    6 
+unnamed_248_avc2t45_i16_b2              
+                r2027.1
+                 u90.6
+      cpu_10ge_spi_1v_miso    11476    5
+                r1894.2
+                 u91.2
+      CPU_10GE_SPI_3V_CS_L   113171    6
+                r1889.2
+                 u81.1
+        v                    114172    5 
+unnamed_248_avc2t45_i8_a2               
+                r2891.1
+                 u91.3
+        v                     11473    6 
+unnamed_248_avc2t45_i8_b2               
+                r2892.1
+                 u91.6
+        v                     11373    6 
+unnamed_248_avc2t45_i8_dir              
+                r1725.1
+                 u91.5
+      DDR4_1V_I2C_SCL_SRT    113167    6
+                r2029.2
+                r2030.1
+                 u96.2
+      DDR4_1V_I2C_SDA_SRT    115166    6
+                r2028.2
+                r2031.1
+                 u96.3
+      DDR4_SPD_I2C_SCL       114157    6
+                r2063.2
+                 u103.6
+      DDR4_SPD_I2C_SCL_SRT   115147    6
+                r2037.1
+                r2063.1
+                 u96.7
+      DDR4_SPD_I2C_SDA_SRT    11547    6
+                r2034.1
+                r2067.1
+                 u96.6
+        v                     11449    6 
+UNNAMED_248_PCA9617_I66_EN              
+                r2032.1
+                r2033.2
+                 u96.5
+      DDR4_SPD_I2C_SDA       114156    6
+                r2067.2
+                 u103.5
+        v                     11543    5 
+UNNAMED_249_AT34C04_I68_A0              
+                r2064.1
+                 u103.1
+                 u103.2
+                 u103.3
+      act2_pud_u1_3_3x       113172    6
+                r1390.2
+                 u108.2
+      act2_pud_u1_14_4x       11475    6
+                r1377.1
+                 u108.3
+                u108.14
+                u108.15
+                u108.20
+      act2_rst_l              11055    5
+                 r886.2
+                r1434.1
+                 u108.4
+      cpu_sup_scl             11354    6
+                 j9.18
+                r1560.1
+                r2338.1
+                r2663.1
+                u108.12
+      cpu_sup_sda             11355    6
+                 j9.17
+                r2344.1
+                r2600.1
+                u108.13
+      SPI_GOLDEN_WP           10930    5
+                 r21.2
+                 r22.1
+                 u79.3
+        v                     10736    5 
+UNNAMED_247_N25QXX_I38_WPMVPPDQ2        
+                r1341.2
+                 u80.3
+      SPI_CFG_WP              11053    6
+                r1379.1
+                r1380.2
+                 u224.3
+      GND                    217101    5
+                  b2.2
+                  c1.2
+                  c2.2
+                  c3.2
+                  c4.2
+                  c5.2
+                  c6.2
+                  c7.2
+                  c8.2
+                  c9.2
+Too many to print.
+Common Devices:
+                 r1891
+                  u81
+Total of 362 nodes, Message is:  None.
+------End, 14 Problems Reported---------
